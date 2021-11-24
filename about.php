@@ -26,7 +26,12 @@
             <li><a href="programs">Programs</a></li>
         </ul>
     </nav>
-      
+      <h1>About the Trainer</h1>
+      <br/>
+      <h2>School</h2>
+      <h2>Work</h2>
+      <h2>Life Experience</h2>
+      <h2>Why</h2>
       
      <script src="" async defer></script>
     <footer>
