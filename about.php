@@ -29,9 +29,13 @@
       <h1>About the Trainer</h1>
       <br/>
       <h2>School</h2>
+        <p></p>
       <h2>Work</h2>
+        <p></p>
       <h2>Life Experience</h2>
+        <p></p>
       <h2>Why</h2>
+        <p></p>
       
      <script src="" async defer></script>
     <footer>
