@@ -29,7 +29,7 @@
       <h1>About the Trainer</h1>
       <br/>
       <h2>School</h2>
-        <p></p>
+        <p>With a degree in Exercise Science from Arizona State University Andrew has the current understanding to help you achieve your goals. Certified through the National Strength and Conditioning Assocition Andrew will used tried and tested methods to reach peak performance.</p>
       <h2>Work</h2>
         <p></p>
       <h2>Life Experience</h2>
