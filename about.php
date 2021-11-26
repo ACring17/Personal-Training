@@ -31,7 +31,7 @@
       <h2>School</h2>
         <p>With a degree in Exercise Science from Arizona State University Andrew has the current understanding to help you achieve your goals. Certified through the National Strength and Conditioning Assocition Andrew will used tried and tested methods to reach peak performance.</p>
       <h2>Work</h2>
-        <p></p>
+        <p>Andrew has eight years expierience working as a personal trainer and manager of a fitness boutique using cutting edge fitness equiptment. As a trainer Andrew has expierience working with all types of clients from as young as 6 years old to as old as 82 years old. With a wealth of knowledge to draw from he will be able to help guide you to your ideal self.</p>
       <h2>Life Experience</h2>
         <p></p>
       <h2>Why</h2>
