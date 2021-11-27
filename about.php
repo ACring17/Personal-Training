@@ -33,7 +33,7 @@
       <h2>Work</h2>
         <p>Andrew has eight years expierience working as a personal trainer and manager of a fitness boutique using cutting edge fitness equiptment. As a trainer Andrew has expierience working with all types of clients from as young as 6 years old to as old as 82 years old. With a wealth of knowledge to draw from he will be able to help guide you to your ideal self.</p>
       <h2>Life Experience</h2>
-        <p></p>
+        <p>Andrew has a lifetime of fitness. From 5 am workouts in highschool for baseball strength and conditioning, running summer camps for young kids to learn new skills for their sport, coaching high school level baseball, running multiple mud run obstacle courses, completeing a half marathon,  and cycling across the united states for charity, Andrew has been through a variety of adversity to understand.</p>
       <h2>Why</h2>
         <p></p>
       
