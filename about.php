@@ -35,7 +35,7 @@
       <h2>Life Experience</h2>
         <p>Andrew has a lifetime of fitness. From 5 am workouts in highschool for baseball strength and conditioning, running summer camps for young kids to learn new skills for their sport, coaching high school level baseball, running multiple mud run obstacle courses, completeing a half marathon,  and cycling across the united states for charity, Andrew has been through a variety of adversity to understand.</p>
       <h2>Why</h2>
-        <p></p>
+        <p>Andrew loves to help others acheive their goals. His ultimate goal is to give his clients the tools nesecarry to thrive on their own and live the lifestyle that will help them be the best version of themselves. Through teaching and practice Andrew will help you get there.</p>
       
      <script src="" async defer></script>
     <footer>
