@@ -7,4 +7,9 @@ body * {
     font-family: 'Open Sans', sans-serif;
 }
 
+#banner {
+    display: block;
+    margin: auto;
+}
+
 colors{47FF5A, 83148F}
