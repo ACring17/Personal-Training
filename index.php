@@ -18,7 +18,7 @@
      <img id="banner" src="images/DCPTLogo.png" alt="Drew Cring's Personal Training"/>
     <nav>
         <ul>
-            <li><a href="about">About</a></li>
+            <li><a href="about.php">About</a></li>
             <li><a href="online">Online Training</a></li>
             <li><a href="articles">Articles</a></li>
             <li><a href="contact">Contact</a></li>
@@ -41,7 +41,7 @@
         <img id="smallLogo" src="images/DCPTLogoSmall.png" alt="Drew Cring's Personal Training Abreviation Logo"/>
         <nav>
             <ul>
-                <li><a href="about">About</a></li>
+                <li><a href="about.php">About</a></li>
                 <li><a href="online">Online Training</a></li>
                 <li><a href="articles">Articles</a></li>
                 <li><a href="contact">Contact</a></li>
