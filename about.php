@@ -36,7 +36,7 @@
       <h2>Life Experience</h2>
         <p>Andrew has a lifetime of fitness. With morning strength and conditioning workouts in highschool for baseball, running summer sport camps for young kids to learn new skills, coaching high school level baseball, partcipating in mud run obstacle courses, and cycling across the united states for charity, Andrew has been through a variety of adversity. No matter what you are training for, Drew will guide you to your goals.</p>
       <h2>Why</h2>
-        <p>Andrew loves to help others acheive their goals. His ultimate goal is to give his clients the tools nesecarry to thrive on their own and live the lifestyle that will help them be the best version of themselves. Through teaching and practice Andrew will help you get there.</p>
+        <p>Drew loves to help others acheive their goals. His ultimate goal is to give his clients the tools nesecarry to thrive on their own and live the lifestyle that will help them be the best version of themselves. Fitness has changed Drew's life and he wants to help others achieve their fitness goals. Through teaching and practice Drew will help you get there.</p>
       
      <script src="" async defer></script>
     <footer>
