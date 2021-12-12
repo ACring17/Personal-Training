@@ -30,7 +30,7 @@
       <h1>About the Trainer</h1>
       <br/>
       <h2>School</h2>
-        <p>With a degree in Exercise Science from Arizona State University Andrew has the current researh to help you achieve your goals. Certified through the National Strength and Conditioning Assocition as a personal trainer, Andrew will used tried and tested methods to reach peak performance. Just before graduating from ASU, Andrew was fortunate enough to work with professional baseball players and help them build strength in their off season. ASU has given Andrew the expierince needed to take on any client.</p>
+        <p>With a degree in Exercise Science from Arizona State University Drew has the current researh to help you achieve your goals. Certified through the National Strength and Conditioning Assocition as a personal trainer, Drew will used tried and tested methods to reach peak performance. Just before graduating from ASU, Drew was fortunate enough to work with professional baseball players and help them build strength in their off season. ASU has given Drew the expierince needed to take on any client.</p>
       <h2>Work</h2>
         <p>Andrew has eight years expierience working as a personal trainer and manager of a fitness boutique using cutting edge fitness equiptment. As a trainer Andrew has expierience working with all types of clients from as young as 6 years old to as old as 82 years old and coaching just about every workout style available. Whether it's strength training, functional movement training, weight loss or flexxibility training, Andrew has the knowhow to help coach you through it. With a wealth of knowledge to draw from he will be able to help guide you to your ideal self.</p>
       <h2>Life Experience</h2>
