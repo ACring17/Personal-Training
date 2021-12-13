@@ -39,7 +39,7 @@
             
         <!--<img photo of Me/> ...  Maybe a carousel of training with clients -->
     <footer>
-        <img id="smallLogo" src="images/DCPTLogoSmall.png" alt="Drew Cring's Personal Training Abreviation Logo"/>
+        <img id="smallLogo" src="images/DCPTLogoSmall.png" width="250" height="184" alt="Drew Cring's Personal Training Abreviation Logo"/>
         <nav>
             <ul>
                 <li><a href="index.php">Home</a></li>
