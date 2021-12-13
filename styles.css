@@ -7,7 +7,8 @@ body * {
     font-family: 'Open Sans', sans-serif;
 }
 
-#banner {
+#banner, 
+#smallLogo {
     display: block;
     margin: auto;
 }
