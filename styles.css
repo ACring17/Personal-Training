@@ -22,6 +22,7 @@ nav ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
+    background-color: #337357;
 }
 
 nav li {
@@ -30,9 +31,10 @@ nav li {
 
 nav li a {
     display: block;
+    color: #FFFFFF;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
 }
 
-colors{47FF5A, 83148F}
+
