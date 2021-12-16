@@ -10,6 +10,9 @@
         <meta name="description" content="Drew Cring's Personal Training website for clients and users to contact and learn about Drew's expierience and services">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="styles.css">
+            <link rel="preconnect" href="https://fonts.googleapis.com">
+            <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+            <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@700&display=swap" rel="stylesheet">
     </head>
     <body>
          <?php
