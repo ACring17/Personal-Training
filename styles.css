@@ -36,6 +36,7 @@ nav li a {
     text-align: center;
     padding: 14px 30px;
     text-decoration: none;
+    text-shadow: black 0.1em 0.1em 0.2em;
 }
 
 nav li a:hover {
