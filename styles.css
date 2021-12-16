@@ -8,7 +8,8 @@ body * {
 }
 
 #banner, 
-#smallLogo {
+#smallLogo,
+#introPhoto {
     display: block;
     margin: auto;
 }
