@@ -29,6 +29,7 @@
     <div id="Intro">
         <h1 id="Title">Drew Cring's Personal Training<h1>  
     </div>
+            <img id="introPhoto" src="images/DrewFlex.jpeg" width="540" height="377" alt="Drew Cring flexing in mid-air"/>
     <div id="body">
     <h2>Drew is here to help with your workout needs!</h2>
         <p>Drew Cring is ready to helo you acheive your personal health and fitness goals. With a bachelor's of science degree in exercise science and a long history with sports and fitness training, Drew will be there for you with expiernce and support to help you through adversity. You do not have to go through this journey alone.</p>
