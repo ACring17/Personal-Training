@@ -48,3 +48,8 @@ h1 {
     text-align: center;
     font-size: xx-large;
 }
+
+p {
+    margin: 20px 40px;
+    line-height: 35px;
+}
