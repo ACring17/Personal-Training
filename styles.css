@@ -28,6 +28,7 @@ nav ul {
 
 nav li {
     float: left;
+    margin: 0px 60px;
 }
 
 nav li a {
