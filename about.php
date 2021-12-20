@@ -41,7 +41,6 @@
       
      <script src="" async defer></script>
     <footer>
-    <img id="smallLogo" src="images/DCPTLogoSmall.png" alt="Drew Cring's Personal Training Abreviation Logo"/>
         <nav>
             <ul>
                 <li><a href="index.php">Home</a></li>
@@ -52,6 +51,7 @@
                 <li><a href="programs">Programs</a></li>
             </ul>
         </nav>
+        <img id="smallLogo" src="images/DCPTLogoSmall.png" alt="Drew Cring's Personal Training Abreviation Logo"/>
       <p>Created By Andrew Cring</p>
     </footer>
     </body>
