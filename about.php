@@ -29,6 +29,7 @@
     </nav>
       <h1>About the Trainer</h1>
       <br/>
+        <img id="introPhoto" src="images/DrewHeadShot.jpg" width="375" height="375" alt="Drew head shot"/>
       <h2>School</h2>
         <p>With a degree in Exercise Science from Arizona State University Drew has the current researh to help you achieve your goals. Certified through the National Strength and Conditioning Assocition as a personal trainer, Drew will used tried and tested methods to reach peak performance. Just before graduating from ASU, Drew was fortunate enough to work with professional baseball players and help them build strength in their off season. ASU has given Drew the expierince needed to take on any client.</p>
       <h2>Work</h2>
