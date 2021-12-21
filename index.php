@@ -23,10 +23,10 @@
         <ul>
             <li><a href="index.php">Home</a></li>
             <li><a href="about.php">About</a></li>
+            <li><a href="programs">Programs</a></li>
             <li><a href="online">Online Training</a></li>
             <li><a href="articles">Articles</a></li>
             <li><a href="contact">Contact</a></li>
-            <li><a href="programs">Programs</a></li>
         </ul>
     </nav>
     <div id="Intro">
@@ -48,10 +48,10 @@
             <ul>
                 <li><a href="index.php">Home</a></li>
                 <li><a href="about.php">About</a></li>
+                <li><a href="programs">Programs</a></li>
                 <li><a href="online">Online Training</a></li>
                 <li><a href="articles">Articles</a></li>
                 <li><a href="contact">Contact</a></li>
-                <li><a href="programs">Programs</a></li>
             </ul>
         </nav>
        <p>Created By Andrew Cring</p>
