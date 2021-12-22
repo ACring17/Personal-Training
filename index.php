@@ -36,7 +36,6 @@
     <div id="body">
     <h2>Drew is here to help with your workout needs!</h2>
         <p>Drew Cring is ready to help you acheive your personal health and fitness goals! With a Bachelor's of Science degree in Exercise Science and a long history with sports and fitness training, Drew will be there for you with experience and support to help you through adversity. You do not have to go through this journey alone.</p>
-            <br/>
         <p>Drew's main area of expertice is exercise science and movement training. With over a decade of practice and knowledge he can answer any questions you may have. He'll be the person you need to hold you accountable to show up for your workouts. He will prescribe exercises that will help you train to achieve your goals.</p>
         <p>Please enjoy exploring this website and learn more about Drew and what he can do for you to help you acheive the best version of your self. If you have any questions feel free to reach out to Drew by clicking <a href="contact">here</a>.</p>
     </div>
