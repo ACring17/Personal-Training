@@ -16,7 +16,7 @@
         <?php
 
         ?>
-    <img id="banner" src="images/DCPTLogo.png" alt="Drew Cring's Personal Training"/>
+    <img id="banner" src="images/DCPTLogoHiRes.png" alt="Drew Cring's Personal Training"/>
     <nav>
         <ul>
             <li><a href="index.php">Home</a></li>
