@@ -31,16 +31,22 @@
       <br/>
       <h2>Your Journey</h2>
       <p>No matter where you are on your fitness journey, Drew will be there to help you continue on your way. Drew has worked with of all skiil and experience level. If you are sjust starting out, Drew will help you get started and help you avoid any fitness pitfalls. If you have been working out for years Drew can help mix up your exercise choices and force you outside your comfort zone and to help you address any weaknesses in your training. Explore the programs down below and see which one is right for you.</p>
-      <h3>Strength Training Program</h3><!--Have little badges for each training program to help the user visualize what each program is and gameify it-->
-      <p></p>
-      <h3>Aerobic Training Program</h3>
-      <p></p>
-      <h3>Activity/Sport Specific Training Program</h3>
-      <p></p>
-      <h3>Flexibility Program</h3>
-      <p></p>
-      <h3>Calithenics Program</h3>
-      <p></p>
+          <h3>Strength Training Program</h3><!--Have little badges for each training program to help the user visualize what each program is and gameify it-->
+          <p></p>
+          <h3>Aerobic Training Program</h3>
+          <p></p>
+          <h3>Activity/Sport Specific Training Program</h3>
+          <p></p>
+          <h3>Flexibility Program</h3>
+          <p></p>
+          <h3>Calithenics Program</h3>
+          <p></p>
+      <h2>Program Packages</h2>
+      <!--Have 3 package options for clients to pick from: 6 weeks, 12 weeks, 24 weeks-->
+      <h2>Frequwntly Asked Questions</h2>
+      <!--Drop down info for each question so the user can pick which question fits them best.-->
+      <h3>If you still have questions please feel free to contact me.</h3>
+      <!--Button that will redirect user to contact form-->
       
       
       
