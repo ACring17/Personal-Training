@@ -21,7 +21,7 @@
         <ul>
             <li><a href="index.php">Home</a></li>
             <li><a href="about.php">About</a></li>
-            <li><a href="programs">Programs</a></li>
+            <li><a href="programs.php">Programs</a></li>
             <li><a href="online">Online Training</a></li>
             <li><a href="articles">Articles</a></li>
             <li><a href="contact">Contact</a></li>
@@ -45,7 +45,7 @@
             <ul>
                 <li><a href="index.php">Home</a></li>
                 <li><a href="about.php">About</a></li>
-                <li><a href="programs">Programs</a></li>
+                <li><a href="programs.php">Programs</a></li>
                 <li><a href="online">Online Training</a></li>
                 <li><a href="articles">Articles</a></li>
                 <li><a href="contact">Contact</a></li>
