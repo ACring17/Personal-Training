@@ -43,7 +43,7 @@
           <p></p>
       <h2>Program Packages</h2>
       <!--Have 3 package options for clients to pick from: 6 weeks, 12 weeks, 24 weeks-->
-      <h2>Frequwntly Asked Questions</h2>
+      <h2>Frequently Asked Questions</h2>
       <!--Drop down info for each question so the user can pick which question fits them best.-->
       <h3>If you still have questions please feel free to contact me.</h3>
       <!--Button that will redirect user to contact form-->
