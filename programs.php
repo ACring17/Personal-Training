@@ -32,9 +32,9 @@
       <h2>Your Journey</h2>
       <p>No matter where you are on your fitness journey, Drew will be there to help you continue on your way. Drew has worked with of all skiil and experience level. If you are sjust starting out, Drew will help you get started and help you avoid any fitness pitfalls. If you have been working out for years Drew can help mix up your exercise choices and force you outside your comfort zone and to help you address any weaknesses in your training. Explore the programs down below and see which one is right for you.</p>
           <h3>Strength Training Program</h3><!--Have little badges for each training program to help the user visualize what each program is and gameify it-->
-          <p></p>
+          <p>This program is for those looking to improve their muscle strngth. Be able to pick up heavy objects with proper form, improve your muscular endurance so you can hold heavy objects longer, and even muscle growth. It is an efficient way for your body to burn calories over a longer period of time while also improving your bone strength. Learn about proper technique and improve your muscular strength with the Strength Training Program by Drew.</p>
           <h3>Aerobic Training Program</h3>
-          <p></p>
+          <p>This training will help improve your cadriovascular strength. Helping improve your heart's pump strength and improve how you heart delivers blood to the muscles in your body. Aerobic training will help lower blood pressure, improve lung function, and decrease your resting heart rate. Not a fan of the treadmill? No problem, there are plenty of methods Drew can choose from to help you improve your heart health. Learn about heart rate, workout intensity and aerobic condtioning with the Aerobic Training Program by Drew.</p>
           <h3>Activity/Sport Specific Training Program</h3>
           <p></p>
           <h3>Flexibility Program</h3>
