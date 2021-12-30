@@ -41,7 +41,9 @@
           <p>Flexibilty is how well you move your body through a range of motion. This program will eveluate where you currently are and will work to address and weaknesses you need address. It will be more than just stretching, there will be strength training but not for the muscles you are used to working out. Drew will find out what is limiting your movement and work on helping you improve your abitilty to move your body through it's full range. Learn about stretching, supplemental strength training, bad movement habits, and how your body moves through space with the Flexibility Program.</p>
           <h3>Calisthenics Program</h3><img id="badge" src="images/calisBadge.png" alt="Calisthenics badge"/>
           <p>Calisthenics is the ability to do body weight movements. Want to improve your pull up? Looking to have total control of your body as you move through space? This will be the ultimate training program of body control. Will require a lot of muscular strength, endurance, and balance. Drew will help you to becoming the ultimate calisthenics master even if you are just starting out. Learn more about body weight exercises, balance, and body control with the Calisthenics Program.</p>
-      <h2>Program Packages</h2>
+      <br/>
+        <hr/>
+       <h2>Program Packages</h2>
       <!--Have 3 package options for clients to pick from: 6 weeks, 12 weeks, 24 weeks-->
       <h2>Frequently Asked Questions</h2>
       <!--Drop down info for each question so the user can pick which question fits them best.-->
