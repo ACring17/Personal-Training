@@ -66,3 +66,7 @@ p {
     line-height: 35px;
     text-indent: 25px;
 }
+
+#badge {
+    float: right;
+}
