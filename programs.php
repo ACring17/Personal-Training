@@ -48,7 +48,7 @@
       <h2>Frequently Asked Questions</h2>
       <!--Drop down info for each question so the user can pick which question fits them best.-->
       <h3>If you still have questions please feel free to contact me.</h3>
-      <!--Button that will redirect user to contact form-->
+      <button><a href="contact">Contact Me</a></button>
       
       
       
