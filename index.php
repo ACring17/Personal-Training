@@ -26,7 +26,7 @@
             <li><a href="programs.php">Programs</a></li>
             <li><a href="online">Online Training</a></li>
             <li><a href="articles">Articles</a></li>
-            <li><a href="contact">Contact</a></li>
+            <li><a href="contact.php">Contact</a></li>
         </ul>
     </nav>
     <div id="Intro">
@@ -50,7 +50,7 @@
                 <li><a href="programs.php">Programs</a></li>
                 <li><a href="online">Online Training</a></li>
                 <li><a href="articles">Articles</a></li>
-                <li><a href="contact">Contact</a></li>
+                <li><a href="contact.php">Contact</a></li>
             </ul>
         </nav>
        <p>Created By Andrew Cring</p>
