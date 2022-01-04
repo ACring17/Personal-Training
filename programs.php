@@ -45,6 +45,7 @@
         <hr/>
        <h2>Program Packages</h2>
       <!--Have 3 package options for clients to pick from: 6 weeks, 12 weeks, 24 weeks-->
+        <hr/>
       <h2>Frequently Asked Questions</h2>
       <!--Drop down info for each question so the user can pick which question fits them best.-->
       <h3>What can I expect with my first session?</h3>
