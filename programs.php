@@ -47,6 +47,10 @@
       <!--Have 3 package options for clients to pick from: 6 weeks, 12 weeks, 24 weeks-->
       <h2>Frequently Asked Questions</h2>
       <!--Drop down info for each question so the user can pick which question fits them best.-->
+      <h3>What can I expect with my first session?</h3>
+      <h3>Can I do a mix of the training programs?</h3>
+      <h3>What if I have no expierince working out?</h3>
+      <h3>Can I change program packages?</h3>
       <h3>If you still have questions please feel free to contact me.</h3>
       <button><a href="contact">Contact Me</a></button>
       
