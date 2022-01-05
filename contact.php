@@ -47,6 +47,13 @@
                     <option value="calisthenics training program">Calisthenics Training Program</option>
                     <option value="mixed training program">A Mixed Training Program</option>
                 </select>
+                
+            <label for="package">Which Package are you interested in?</label>
+                <select id="package" name="package">
+                    <option value="6 week">6 Week</option>
+                    <option value="12 week">12 Week</option>
+                    <option value="24 week">24 Week</option>
+                </select>
 
             <label for="subject">Subject</label>
             <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
