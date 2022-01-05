@@ -38,12 +38,15 @@
             <label for="lname">Last Name</label>
             <input type="text" id="lname" name="lastname" placeholder="Your last name..">
 
-            <label for="country">Country</label>
-            <select id="country" name="country">
-                <option value="australia">Australia</option>
-                <option value="canada">Canada</option>
-                <option value="usa">USA</option>
-            </select>
+            <label for="program">Which Program are you interested in?</label>
+                <select id="program" name="program">
+                    <option value="strength training program">Strength Training Program</option>
+                    <option value="aerobic training program">Aerobic Training Program</option>
+                    <option value="sport specific training program">Activity/Sport Specific Training Program</option>
+                    <option value="flexibility training program">Flexibility Program</option>
+                    <option value="calisthenics training program">Calisthenics Training Program</option>
+                    <option value="mixed training program">A Mixed Training Program</option>
+                </select>
 
             <label for="subject">Subject</label>
             <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
