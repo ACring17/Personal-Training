@@ -44,7 +44,11 @@
       <br/>
         <hr/>
        <h2>Program Packages</h2>
-      <!--Have 3 package options for clients to pick from: 6 weeks, 12 weeks, 24 weeks-->
+        <div class="row">
+            <div class="column"><h2>6 Week Package</h2><h3>$450</h3><p>At $25 a session, we will meet 3 times a week for 6 weeks working on your specific goals. Comes with a free intial consultation to meet the trainer, discuss goals and evaluate current level of fitness and mobility.</p></div>
+            <div class="column"><h2>12 Week Package</h2><h3>$700</h3><p>At $19.44 a session we will meet 3 times a week for 12 weeks working on your  specific goals. Comes with a free intial consultation to meet the trainer, discuss goals and evaluate current level of fitness and mobility. Will have a week 6 assesment to test if there have been any improvements on performance and if the goals need to be adjusted moving forward.</p></div>
+            <div class="column"><h2>24 Week Package</h2><h3>$1,000</h3><p>At $13.88 a session we will meet 3 times a week for 24 weeks working on your  specific goals. Comes with a free intial consultation to meet the trainer, discuss goals and evaluate current level of fitness and mobility. Will have a week 6 & week 12 assesments to test if there have been any improvements on performance and if the goals need to be adjusted moving forward.</p></div>
+        </div>
         <hr/>
       <h2>Frequently Asked Questions</h2>
       <!--Drop down info for each question so the user can pick which question fits them best.-->
