@@ -127,3 +127,19 @@ input[type=submit]:hover {
     background-color: #f2f2f2;
     padding: 20px;
 }
+
+/* Style rules for the package columns*/
+
+.column {
+    float: left;
+    width: 33.33%;
+}
+
+
+/* Clear floats after the columns */
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
