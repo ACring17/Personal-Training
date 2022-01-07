@@ -57,7 +57,7 @@
       <h3>What if I have no expierince working out?</h3>
       <h3>Can I change program packages?</h3>
       <h3>If you still have questions please feel free to contact me.</h3>
-      <button><a href="contact">Contact Me</a></button>
+      <button><a href="contact.php">Contact Me</a></button>
       
       
       
