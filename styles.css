@@ -135,6 +135,11 @@ input[type=submit]:hover {
     width: 33.33%;
 }
 
+#borderColumn {
+    border: 2px #337357;
+    border-style: none solid;
+}
+
 .packTitle {
     text-align: center;
     font-weight: bold;
