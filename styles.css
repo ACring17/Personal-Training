@@ -135,6 +135,10 @@ input[type=submit]:hover {
     width: 33.33%;
 }
 
+.packTitle {
+    text-align: center;
+    font-weight: bold;
+}
 
 /* Clear floats after the columns */
 
