@@ -64,6 +64,7 @@ h3 {
 }
 
 p {
+    font-family: 'Roboto', sans-serif;
     margin: 10px 40px 40px;
     line-height: 35px;
     text-indent: 25px;
