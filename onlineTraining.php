@@ -33,6 +33,16 @@
             <li><a href="contact.php">Contact</a></li>
         </ul>
     </nav>
+        <h1>Online Personal Training</h1>
+            <h2>Personalized personal training in your own home</h2>
+                <p>With COVID-19 making close contact a health concern, Drew is offering a way to help keep you safe and fit. Through the online personal training program you will have access to Drew's knowledge and expertise with the option to contact whenever you have a question. The online training will come with workout plans that </p>
+    <hr/>
+        <h2>Program Packages</h2>
+        <div class="row">
+            <div class="column"><h2 class="packTitle">6 Week Package</h2><h3 class="packTitle">$450 / 18 sessions</h3><p>At $25 a session, we will meet 3 times a week for 6 weeks working on your specific goals. Comes with a free intial consultation to meet the trainer, discuss goals and evaluate current level of fitness and mobility. This package is great for those looking for a "test drive" with Drew and want to get a taste of what it is like to work with him. In 6 weeks you'll see results and learn the basics of how to achieve your goal. </p></div>
+            <div class="column" id="borderColumn"><h2 class="packTitle">12 Week Package</h2><h3 class="packTitle">$700 / 36 sessions</h3><p>At $19.44 a session we will meet 3 times a week for 12 weeks working on your  specific goals. Comes with a free intial consultation to meet the trainer, discuss goals and evaluate current level of fitness and mobility. Will have a week 6 assesment to test if there have been any improvements on performance and if the goals need to be adjusted moving forward.</p></div>
+            <div class="column"><h2 class="packTitle">24 Week Package</h2><h3 class="packTitle">$1,000 / 72 sessions</h3><p>At $13.88 a session we will meet 3 times a week for 24 weeks working on your  specific goals. Comes with a free intial consultation to meet the trainer, discuss goals and evaluate current level of fitness and mobility. Will have a week 6 & week 12 assesments to test if there have been any improvements on performance and if the goals need to be adjusted moving forward.</p></div>
+        </div>
 
     <footer>
     <nav>
