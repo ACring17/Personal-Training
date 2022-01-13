@@ -35,6 +35,7 @@
     </nav>
         <h1>Online Personal Training</h1>
             <h2>Personalized personal training in your own home</h2>
+        <img id="banner" src="images/onlineTrain.png" alt="Online Training badge"/>
                 <p>With COVID-19 making close contact a health concern, Drew is offering a way to help keep you safe and fit. Through the online personal training program you will have access to Drew's knowledge and expertise with the option to contact whenever you have a question. The online training will come with workout plans that </p>
     <hr/>
         <h2>Program Packages</h2>
