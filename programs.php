@@ -53,15 +53,16 @@
             <div class="column"><h2 class="packTitle">24 Week Package</h2><h3 class="packTitle">$1,000 / 72 sessions</h3><p>At $13.88 a session we will meet 3 times a week for 24 weeks working on your  specific goals. Comes with a free intial consultation to meet the trainer, discuss goals and evaluate current level of fitness and mobility. Will have a week 6 & week 12 assesments to test if there have been any improvements on performance and if the goals need to be adjusted moving forward.</p></div>
         </div>
         <hr/>
-      <h2>Frequently Asked Questions</h2>
-      <!--Drop down info for each question so the user can pick which question fits them best.-->
-      <h3>What can I expect with my first session?</h3>
-      <h3>Can I do a mix of the training programs?</h3>
-      <h3>What if I have no expierince working out?</h3>
-      <h3>Can I change program packages?</h3>
-      <h3>If you still have questions please feel free to contact me.</h3>
-      <button><a href="contact.php">Contact Me</a></button>
-      
+            <div id="faq">
+              <h2>Frequently Asked Questions</h2>
+              <!--Drop down info for each question so the user can pick which question fits them best.-->
+              <span><h3>What can I expect with my first session?</h3></span>
+              <span><h3>Can I do a mix of the training programs?</h3></span>
+              <span><h3>What if I have no expierince working out?</h3></span>
+              <span><h3>Can I change program packages?</h3></span>
+              <span><h3>If you still have questions please feel free to contact me.</h3></span>
+              <button><a href="contact.php">Contact Me</a></button>
+            </div>
       
       
      <script src="" async defer></script>
