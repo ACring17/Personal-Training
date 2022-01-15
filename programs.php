@@ -54,15 +54,19 @@
         </div>
         <hr/>
             <div id="faq">
-              <h2>Frequently Asked Questions</h2>
-              <!--Drop down info for each question so the user can pick which question fits them best.-->
-              <span><h3>What can I expect with my first session?</h3></span>
-              <span><h3>Can I do a mix of the training programs?</h3></span>
-              <span><h3>What if I have no expierince working out?</h3></span>
-              <span><h3>Can I change program packages?</h3></span>
-              <span><h3>If you still have questions please feel free to contact me.</h3></span>
-              <button><a href="contact.php">Contact Me</a></button>
-            </div>
+            <h2>Frequently Asked Questions</h2>
+                <span><h3>What can I expect with my first session?</h3>
+                    <p class="answer"></p></span>
+                <span><h3>Can I do a mix of the training programs?</h3>
+                    <p class="answer"></p></span>
+                <span><h3>What if I have no expierince working out?</h3>
+                    <p class="answer"></p></span>
+                <span><h3>Can I change program packages?</h3></span>
+                    <p class="answer"></p></span>
+                <h3></h3>
+                <h3></h3>
+            <!--Drop down info for each question so the user can pick which question fits them best.-->
+        </div>      
       
       
      <script src="" async defer></script>
