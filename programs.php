@@ -56,13 +56,13 @@
             <div id="faq">
             <h2>Frequently Asked Questions</h2>
                 <span><h3>What can I expect with my first session?</h3>
-                    <p class="answer"></p></span>
+                    <p class="answer">A training session</p></span>
                 <span><h3>Can I do a mix of the training programs?</h3>
-                    <p class="answer"></p></span>
+                    <p class="answer">Yes of course we twill train to do whatever you need</p></span>
                 <span><h3>What if I have no expierince working out?</h3>
-                    <p class="answer"></p></span>
+                    <p class="answer">Drew will work with you at whatever level you are at and help you learn how become a better athelete.</p></span>
                 <span><h3>Can I change program packages?</h3></span>
-                    <p class="answer"></p></span>
+                    <p class="answer">Yes of course, If you feel ready to upgrade packages you can always switch o the package that works best for you.</p></span>
                 <h3></h3>
                 <h3></h3>
             <!--Drop down info for each question so the user can pick which question fits them best.-->
