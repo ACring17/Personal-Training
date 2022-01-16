@@ -85,9 +85,9 @@
       <p>Created By Andrew Cring</p>
     </footer>
     <script src="" async defer>
-         $( ".answer" ).click(function() {
-            $( this ).slideDown();
-            });
+         $( "span" ).click(function() {
+            $( ".answer" ).toggle( "h3" );
+        }); 
      </script>
     </body>
 </html>
