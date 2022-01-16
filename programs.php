@@ -69,7 +69,7 @@
         </div>      
       
       
-     <script src="" async defer></script>
+     
     <footer>
         <nav>
             <ul>
@@ -84,5 +84,10 @@
         <img id="smallLogo" src="images/DCPTLogoSmall.png" alt="Drew Cring's Personal Training Abreviation Logo"/>
       <p>Created By Andrew Cring</p>
     </footer>
+    <script src="" async defer>
+         $( ".answer" ).click(function() {
+            $( this ).slideDown();
+            });
+     </script>
     </body>
 </html>
