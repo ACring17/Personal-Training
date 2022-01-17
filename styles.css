@@ -81,6 +81,11 @@ hr {
     width: 184px;
 }
 
+#contactMe {
+    margin: 10px 50px;
+}
+
+
 /* Style inputs with type="text", select elements and textareas */
 
 input[type=text],
