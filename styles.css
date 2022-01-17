@@ -76,6 +76,10 @@ hr {
     width: 100%;
 }
 
+button a {
+    color: #FFFFFF;
+}
+
 #badge {
     float: right;
     width: 184px;
@@ -83,6 +87,8 @@ hr {
 
 #contactMe {
     margin: 10px 50px;
+    padding: 10px 10px;
+    background-color: black;
 }
 
 
