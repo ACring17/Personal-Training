@@ -67,7 +67,9 @@
                 <h3></h3>
             <!--Drop down info for each question so the user can pick which question fits them best.-->
         </div>      
-      
+      <br/>
+      <h3>If you still have questions please feel free to contact me.</h3>
+      <button id="contactMe"><a href="contact.php">Contact Me</a></button>
       
      
     <footer>
