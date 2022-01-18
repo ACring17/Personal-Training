@@ -85,6 +85,10 @@ button a {
     width: 184px;
 }
 
+.answer {
+    display: none;
+}
+
 #contactMe {
     margin: 10px 50px;
     padding: 10px 10px;
