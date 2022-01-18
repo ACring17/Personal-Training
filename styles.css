@@ -85,7 +85,10 @@ button a {
     width: 184px;
 }
 
-.answer {
+#answer1,
+#answer2,
+#answer3,
+#answer4 {
     display: none;
 }
 
