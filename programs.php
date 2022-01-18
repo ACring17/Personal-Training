@@ -86,10 +86,6 @@
         <img id="smallLogo" src="images/DCPTLogoSmall.png" alt="Drew Cring's Personal Training Abreviation Logo"/>
       <p>Created By Andrew Cring</p>
     </footer>
-    <script src="" async defer>
-         $( "span" ).click(function() {
-            $( ".answer" ).toggle( "h3" );
-        }); 
-     </script>
+    <script src="answers.js" async defer></script>
     </body>
 </html>
