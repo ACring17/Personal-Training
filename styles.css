@@ -88,7 +88,7 @@ button a {
 /* Styles for the Programs page */
 
 span {
-    border: 5px solid #337357;
+    border: 4px solid #337357;
     border-radius: 15px;
     padding: 10px;
 }
@@ -97,6 +97,7 @@ span:hover {
     cursor: pointer;
     background-color: #337357;
     color: #fff;
+    text-shadow: black 0.1em 0.1em 0.1em;
 }
 
 #question1,
