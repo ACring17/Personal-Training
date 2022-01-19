@@ -55,14 +55,14 @@
         <hr/>
             <div id="faq">
             <h2>Frequently Asked Questions</h2>
-                <span><h3>What can I expect with my first session?</h3>
-                    <p class="answer">A training session</p></span>
-                <span><h3>Can I do a mix of the training programs?</h3>
-                    <p class="answer">Yes of course we twill train to do whatever you need</p></span>
-                <span><h3>What if I have no expierince working out?</h3>
-                    <p class="answer">Drew will work with you at whatever level you are at and help you learn how become a better athelete.</p></span>
-                <span><h3>Can I change program packages?</h3></span>
-                    <p class="answer">Yes of course, If you feel ready to upgrade packages you can always switch o the package that works best for you.</p></span>
+                <div id="question1"><h3><span>What can I expect with my first session?</span></h3>
+                    <p id="answer1">A training session</p></div>
+                <div id="question2"><h3><span>Can I do a mix of the training programs?</span></h3>
+                    <p id="answer2">Yes of course we twill train to do whatever you need</p></div>
+                <div id="question3"><h3><span> if I have no expierince working out?</span></h3>
+                    <p id="answer3">Drew will work with you at whatever level you are at and help you learn how become a better athelete.</p></div>
+                <div id="question4"><h3><span> I change program packages?</span></h3>
+                    <p id="answer4">Yes of course, If you feel ready to upgrade packages you can always switch o the package that works best for you.</p></div>
                 <h3></h3>
                 <h3></h3>
             <!--Drop down info for each question so the user can pick which question fits them best.-->
