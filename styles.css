@@ -85,6 +85,26 @@ button a {
     width: 184px;
 }
 
+/* Styles for the Programs page */
+
+span {
+    border: 10px groove #337357;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+span:hover {
+    cursor: pointer;
+}
+
+#question1,
+#question2,
+#question3,
+#question4 {
+    margin: 50px 0px;
+}
+
+
 #answer1,
 #answer2,
 #answer3,
