@@ -117,7 +117,8 @@ span:hover {
 #answer3,
 #answer4 {
     display: none;
-    margin: 25px 35px;
+    margin: 25px 45px;
+    font-size: large;
 }
 
 #contactMe {
