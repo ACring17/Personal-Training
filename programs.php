@@ -26,7 +26,7 @@
             <li><a href="about.php">About</a></li>
             <li><a href="programs.php">Programs</a></li>
             <li><a href="onlineTraining.php">Online Training</a></li>
-            <li><a href="articles">Articles</a></li>
+            <li><a href="articles.php">Articles</a></li>
             <li><a href="contact.php">Contact</a></li>
         </ul>
     </nav>
@@ -79,7 +79,7 @@
                 <li><a href="about.php">About</a></li>
                 <li><a href="programs.php">Programs</a></li>
                 <li><a href="onlineTraining.php">Online Training</a></li>
-                <li><a href="articles">Articles</a></li>
+                <li><a href="articles.php">Articles</a></li>
                 <li><a href="contact.php">Contact</a></li>
             </ul>
         </nav>
