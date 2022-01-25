@@ -33,7 +33,19 @@
             <li><a href="contact.php">Contact</a></li>
         </ul>
     </nav>
-
+<h1>Informative Articles</h1>
+    <img id="banner" src="images/articleBadge.png" alt="Articles badge"/>
+        <h2>Weightloss Articles</h2>
+        <p>Below you will find research articles that pertain to weightloss.</p>
+            <hr/>
+        <h2>Mental Health</h2>
+        <p>Below you will find articles that pertain to mental health.</p>
+            <hr/>
+        <h2>Injury Pervention</h2>
+        <p>Below you will find articles that pertain to injury pervention</p>
+            <hr/>
+        <h2>Athletic Training</h2>
+        <p>Below you will find articles that pertain to all types of athletic training.</p>
 
     <footer>
     <nav>
