@@ -75,6 +75,11 @@ p {
     text-indent: 25px;
 }
 
+#contactLink {
+    color: #DAA520;
+    font-size: 25px;
+}
+
 hr {
     border: 10px solid #337357;
     width: 100%;
