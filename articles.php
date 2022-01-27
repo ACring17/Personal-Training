@@ -35,17 +35,27 @@
     </nav>
 <h1>Informative Articles</h1>
     <img id="banner" src="images/articleBadge.png" alt="Articles badge"/>
-        <h2>Weightloss Articles</h2>
-        <p>Below you will find research articles that pertain to weightloss.</p>
+        <div><!--Main div to contain all articles -->
+        <div><!--Sub div-->
+            <h2>Weightloss Articles</h2>
+            <p>Below you will find research articles that pertain to weightloss.</p>
+        </div>
             <hr/>
-        <h2>Mental Health</h2>
-        <p>Below you will find articles that pertain to mental health.</p>
+        <div><!--Sub div-->
+            <h2>Mental Health</h2>
+            <p>Below you will find articles that pertain to mental health.</p>
+        </div>
             <hr/>
-        <h2>Injury Pervention</h2>
-        <p>Below you will find articles that pertain to injury pervention</p>
+        <div><!--Sub div-->
+            <h2>Injury Pervention</h2>
+            <p>Below you will find articles that pertain to injury pervention</p>
+        </div>
             <hr/>
-        <h2>Athletic Training</h2>
-        <p>Below you will find articles that pertain to all types of athletic training.</p>
+        <div><!--Sub div-->
+            <h2>Athletic Training</h2>
+            <p>Below you will find articles that pertain to all types of athletic training.</p>
+        </div>
+    </div>
 
     <footer>
     <nav>
