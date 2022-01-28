@@ -39,21 +39,25 @@
         <div><!--Sub div-->
             <h2>Weightloss Articles</h2>
             <p>Below you will find research articles that pertain to weightloss.</p>
+            <div></div><!--Article div-->
         </div>
             <hr/>
         <div><!--Sub div-->
             <h2>Mental Health</h2>
             <p>Below you will find articles that pertain to mental health.</p>
+            <div></div><!--Article div-->
         </div>
             <hr/>
         <div><!--Sub div-->
             <h2>Injury Pervention</h2>
             <p>Below you will find articles that pertain to injury pervention</p>
+            <div></div><!--Article div-->
         </div>
             <hr/>
         <div><!--Sub div-->
             <h2>Athletic Training</h2>
             <p>Below you will find articles that pertain to all types of athletic training.</p>
+            <div></div><!--Article div-->
         </div>
     </div>
 
