@@ -48,7 +48,7 @@
         <hr/>
         <div id="faq">
             <h2>Frequently Asked Questions</h2>
-                <div id="question1"><h3><span>What can I expect with my first session?</span></h3>
+                <div id="question1"><h3><span>What is the difference between an in-person training session and an online training session?</span></h3>
                     <p id="answer1">The first session will be a meeting and evaluation with Drew. He will chat with you to learn about you and your goals. He'll ask some questions about current lifestyle and try to find your "why?" for coming to him. After a good chat, Drew will have you perform a battery of tests to see where your athletic ability is currently at. No need to stress because there is no failing this test, he just wants to see where you are at. After the tests are completed Drew will talk with you about how the following weeks will go and what to expect with his training program and how much work you need to put in outside of the gym. He'll alsp answer any remaining questions you have.</p></div>
                 <div id="question2"><h3><span>Can I do a mix of the training programs?</span></h3>
                     <p id="answer2">Yes of course we will train to do whatever you need</p></div>
