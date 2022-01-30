@@ -62,7 +62,7 @@
                 <div id="question3"><h3><span> if I have no expierince working out?</span></h3>
                     <p id="answer3">Drew will work with you at whatever level you are at and help you learn how become a better athelete. He will start with the basics to make sure you have a great foundatation.</p></div>
                 <div id="question4"><h3><span> I change program packages?</span></h3>
-                    <p id="answer4">Yes of course, If you feel ready to upgrade packages you can always switch o the package that works best for you.</p></div>
+                    <p id="answer4">If you feel that these training sessions are benefiting you and you would like to extend your program, just let Drew know and he will help plan the remaining workouts with you.</p></div>
                 <h3></h3>
                 <h3></h3>
             <!--Drop down info for each question so the user can pick which question fits them best.-->
