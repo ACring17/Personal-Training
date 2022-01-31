@@ -63,7 +63,8 @@
                     <p id="answer3">Drew will work with you at whatever level you are at and help you learn how become a better athelete. He will start with the basics to make sure you have a great foundatation.</p></div>
                 <div id="question4"><h3><span> I change program packages?</span></h3>
                     <p id="answer4">If you feel that these training sessions are benefiting you and you would like to extend your program, just let Drew know and he will help plan the remaining workouts with you.</p></div>
-                <h3></h3>
+                <div id="question5"><h3><span>Can I switch to online training?</span></h3>
+                    <p id="answer5">Yes of course! If you feel ready to start training on your own and have less hands-on training with Drew please let him know and he will help you transition to the online training program.</p></div>
                 <h3></h3>
             <!--Drop down info for each question so the user can pick which question fits them best.-->
         </div>      
