@@ -51,9 +51,9 @@
                 <div id="question1"><h3><span>What is the difference between an in-person training session and an online training session?</span></h3>
                     <p id="answer1">Both programs give access to Drew and his knowledge. The biggest difference will be that the online training can be self-pace and will leave more responibility on the you to workout hard. With online training you get access to Drew's workout database and he prescribe weekly workout routines for you to follow on your own. He will have once a week video calls with you to check in on your progress, answer any questions you have, and help you get ready for the next week. The online training program is great for those with expierience working out. If you are brand new to working out, an in-person program i recommended to start.</p></div>
                 <div id="question2"><h3><span>Are the training programs the same as the in person training?</span></h3>
-                    <p id="answer2">Yes of course we will train to do whatever you need</p></div>
-                <div id="question3"><h3><span> Yes, Drew will provide you with the workout guidance for both in-person and online training. With online training Drew will structure the workout plan to meet your goals and will highlight the exercises needed in his exercise database.</span></h3>
-                    <p id="answer3">Drew will work with you at whatever level you are at and help you learn how become a better athelete.</p></div>
+                    <p id="answer2">Yes, Drew will provide you with the workout guidance for both in-person and online training. With online training Drew will structure the workout plan to meet your goals and will highlight the exercises needed in his exercise database.</p></div>
+                <div id="question3"><h3><span>What if I have no expierince working out?</span></h3>
+                    <p id="answer3">Drew will work with you at whatever level you are at, but he would recommend that you start with in-person training so he can help help teach you safe technique.</p></div>
                 <div id="question4"><h3><span> I change program packages?</span></h3>
                     <p id="answer4">Yes of course, If you feel ready to upgrade packages you can always switch o the package that works best for you.</p></div>
                 <h3></h3>
