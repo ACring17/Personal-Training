@@ -94,6 +94,11 @@ button a {
     width: 184px;
 }
 
+.introBadge {
+    width: 174px;
+    height: 200px;
+}
+
 /* Styles for the Programs page */
 
 span {
