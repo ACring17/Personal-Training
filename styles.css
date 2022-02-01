@@ -94,6 +94,11 @@ button a {
     width: 184px;
 }
 
+#badgeContainer {
+    display: block;
+    margin: 0 8%;
+}
+
 .introBadge {
     width: 174px;
     height: 200px;
