@@ -41,6 +41,7 @@
     </div>
             
         <!--<img photo of Me/> ...  Maybe a carousel of training with clients -->
+      <div id="badgeContainer">
         <img class="introBadge" src="images/strengthBadge.png" alt="Strength badge"/>
         <img class="introBadge" src="images/aerobicBadge.png" alt="Aerobic badge"/>
         <img class="introBadge" src="images/sportBadge.png" alt="Sports/Activity badge"/>
@@ -48,6 +49,7 @@
         <img class="introBadge" src="images/calisBadge.png" alt="Calisthenics badge"/>
         <img class="introBadge" src="images/onlineTrain.png" alt="Online Training badge"/>        
         <img class="introBadge" src="images/articleBadge.png" alt="Articles badge"/>
+       </div>
             
     <footer>
         <img id="smallLogo" src="images/DCPTLogoSmall.png" width="250" height="184" alt="Drew Cring's Personal Training Abreviation Logo"/>
