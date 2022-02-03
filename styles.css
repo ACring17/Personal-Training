@@ -111,6 +111,13 @@ button a {
     height: 200px;
 }
 
+.introBadge:hover {
+    transition: all .4s ease-in-out;
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
 /* Styles for the Programs page */
 
 span {
