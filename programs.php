@@ -32,6 +32,7 @@
     </nav>
       <h1>Training Programs</h1>
       <br/>
+        <img id="introPhoto" src="images/stockWorkout.jpg" width="250" height="166" alt="Kettlebells lined up."/>
       <h2>Your Journey</h2>
       <p>No matter where you are on your fitness journey, Drew will be there to help you continue on your way. Drew has worked with of all skiil and experience level. If you are sjust starting out, Drew will help you get started and help you avoid any fitness pitfalls. If you have been working out for years Drew can help mix up your exercise choices and force you outside your comfort zone and to help you address any weaknesses in your training. Explore the programs down below and see which one is right for you.</p>
           <h3>Strength Training Program</h3><img id="badge" src="images/strengthBadge.png" alt="Strength badge"/>
