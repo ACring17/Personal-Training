@@ -65,14 +65,11 @@
                     <p id="answer4">If you feel that these training sessions are benefiting you and you would like to extend your program, just let Drew know and he will help plan the remaining workouts with you.</p></div>
                 <div id="question5"><h3><span>Can I switch to online training?</span></h3>
                     <p id="answer5">Yes of course! If you feel ready to start training on your own and have less hands-on training with Drew please let him know and he will help you transition to the online training program.</p></div>
-                <h3></h3>
             <!--Drop down info for each question so the user can pick which question fits them best.-->
         </div>      
       <br/>
       <h3>If you still have questions please feel free to contact me.</h3>
       <button id="contactMe"><a href="contact.php">Contact Me</a></button>
-      
-     
     <footer>
         <nav>
             <ul>
