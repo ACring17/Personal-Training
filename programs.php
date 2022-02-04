@@ -35,6 +35,7 @@
         <img id="introPhoto" src="images/stockWorkout.jpg" width="250" height="166" alt="Kettlebells lined up."/>
       <h2>Your Journey</h2>
       <p>No matter where you are on your fitness journey, Drew will be there to help you continue on your way. Drew has worked with of all skiil and experience level. If you are sjust starting out, Drew will help you get started and help you avoid any fitness pitfalls. If you have been working out for years Drew can help mix up your exercise choices and force you outside your comfort zone and to help you address any weaknesses in your training. Explore the programs down below and see which one is right for you.</p>
+        <div id="programContainer">
           <h3>Strength Training Program</h3><img id="badge" src="images/strengthBadge.png" alt="Strength badge"/>
             <p>This program is for those looking to improve their muscle strngth. Be able to pick up heavy objects with proper form, improve your muscular endurance so you can hold heavy objects longer, and even muscle growth. It is an efficient way for your body to burn calories over a longer period of time while also improving your bone strength. Learn about proper technique and improve your muscular strength with the Strength Training Program by Drew.</p>
           <h3>Aerobic Training Program</h3><img id="badge" src="images/aerobicBadge.png" alt="Aerobic badge"/>
@@ -45,7 +46,8 @@
             <p>Flexibilty is how well you move your body through a range of motion. This program will eveluate where you currently are and will work to address and weaknesses you need address. It will be more than just stretching, there will be strength training but not for the muscles you are used to working out. Drew will find out what is limiting your movement and work on helping you improve your abitilty to move your body through it's full range. Learn about stretching, supplemental strength training, bad movement habits, and how your body moves through space with the Flexibility Program.</p>
           <h3>Calisthenics Program</h3><img id="badge" src="images/calisBadge.png" alt="Calisthenics badge"/>
             <p>Calisthenics is the ability to do body weight movements. Want to improve your pull up? Looking to have total control of your body as you move through space? This will be the ultimate training program of body control. Will require a lot of muscular strength, endurance, and balance. Drew will help you to becoming the ultimate calisthenics master even if you are just starting out. Learn more about body weight exercises, balance, and body control with the Calisthenics Program.</p>
-      <br/>
+        </div>
+             <br/>
         <hr/>
        <h2>Program Packages</h2>
         <div class="row">
