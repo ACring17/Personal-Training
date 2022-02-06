@@ -42,13 +42,13 @@
             
         <!--<img photo of Me/> ...  Maybe a carousel of training with clients -->
       <div id="badgeContainer">
-        <a href="programs.php"><img class="introBadge" src="images/strengthBadge.png" alt="Strength badge"/></a>
-        <a href="programs.php"><img class="introBadge" src="images/aerobicBadge.png" alt="Aerobic badge"/></a>
-        <a href="programs.php"><img class="introBadge" src="images/sportBadge.png" alt="Sports/Activity badge"/></a>
-        <a href="programs.php"><img class="introBadge" src="images/flexBadge.png" alt="Flexibility badge"/></a>
-        <a href="programs.php"><img class="introBadge" src="images/calisBadge.png" alt="Calisthenics badge"/></a>
-        <a href="onlineTraining.php"><img class="introBadge" src="images/onlineTrain.png" alt="Online Training badge"/></a>
-        <a href="articles.php"><img class="introBadge" src="images/articleBadge.png" alt="Articles badge"/></a> 
+        <a href="programs.php"><img class="introBadge" src="images/strengthBadge.png" alt="Strength badge" title="Go to the programs page"/></a>
+        <a href="programs.php"><img class="introBadge" src="images/aerobicBadge.png" alt="Aerobic badge" title="Go to the programs page"/></a>
+        <a href="programs.php"><img class="introBadge" src="images/sportBadge.png" alt="Sports/Activity badge" title="Go to the programs page"/></a>
+        <a href="programs.php"><img class="introBadge" src="images/flexBadge.png" alt="Flexibility badge" title="Go to the programs page"/></a>
+        <a href="programs.php"><img class="introBadge" src="images/calisBadge.png" alt="Calisthenics badge" title="Go to the programs page"/></a>
+        <a href="onlineTraining.php"><img class="introBadge" src="images/onlineTrain.png" alt="Online Training badge" title="Go to the online training programs page"/></a>
+        <a href="articles.php"><img class="introBadge" src="images/articleBadge.png" alt="Articles badge" title="Go to the articles page"/></a> 
        </div>
             
     <footer>
