@@ -40,7 +40,8 @@
             <h2>Weightloss Articles</h2>
             <p>Below you will find research articles that pertain to weightloss.</p>
             <div>
-                <a ><img src="" alt=""/></a>
+                <a ><img src="" alt=""/>
+                <p class="description"></p></a>
             </div><!--Article div-->
         </div>
             <hr/>
@@ -48,7 +49,8 @@
             <h2>Mental Health</h2>
             <p>Below you will find articles that pertain to mental health.</p>
             <div>
-                <a ><img src="" alt=""/></a>
+                <a ><img src="" alt=""/>
+                <p class="description"></p></a>
             </div><!--Article div-->
         </div>
             <hr/>
@@ -56,7 +58,8 @@
             <h2>Injury Pervention</h2>
             <p>Below you will find articles that pertain to injury pervention</p>
             <div>
-                <a ><img src="" alt=""/></a>
+                <a ><img src="" alt=""/>
+                <p class="description"></p></a>
             </div><!--Article div-->
         </div>
             <hr/>
@@ -64,7 +67,8 @@
             <h2>Athletic Training</h2>
             <p>Below you will find articles that pertain to all types of athletic training.</p>
             <div>
-                <a ><img src="" alt=""/></a>
+                <a ><img src="" alt=""/>
+                <p class="description"></p></a>
             </div><!--Article div-->
         </div>
     </div>
