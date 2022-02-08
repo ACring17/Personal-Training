@@ -18,6 +18,16 @@ body {
     margin: auto;
 }
 
+.leftPhoto {
+    float: left;
+    margin: 0 50px;
+}
+
+.rightPhoto {
+    float: right;
+    margin: 0 50px;
+}
+
 nav {
     display: inline;
 }
