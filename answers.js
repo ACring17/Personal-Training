@@ -13,3 +13,7 @@ $("#question3").click(function() {
 $("#question4").click(function() {
     $("#answer4").toggle("h3");
 });
+
+$("#question5").click(function() {
+    $("#answer5").toggle("h3");
+});
