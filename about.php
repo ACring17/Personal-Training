@@ -35,13 +35,13 @@
         <img id="introPhoto" src="images/DrewHeadShot.jpg" width="375" height="375" alt="Drew head shot"/>
       <h2>School</h2>
         <p>With a degree in Exercise Science from Arizona State University Drew has the current researh to help you achieve your goals. Certified through the National Strength and Conditioning Assocition as a personal trainer, Drew will used tried and tested methods to reach peak performance. Just before graduating from ASU, Drew was fortunate enough to work with professional baseball players and help them build strength in their off season. ASU has given Drew the expierince needed to take on any client.</p>
-        <img id="introPhoto" src="images/DrewGrad.jpg" width="375" height="515" alt="Drew's Graduation"/>
+        <img class="leftPhoto" src="images/DrewGrad.jpg" width="375" height="515" alt="Drew's Graduation"/>
       <h2>Work</h2>
         <p>Drew has eight years expierience working as a personal trainer and manager of a fitness boutique using cutting edge fitness equiptment. As a trainer Drew has expierience working with all types of clients from as young as 6 years old to as old as 82 years old and coaching just about every workout style available. Whether it's strength training, functional movement training, weight loss or flexxibility training, Drew has the knowhow to help coach you through it. With a wealth of knowledge to draw from he will be able to help guide you to your ideal self.</p>
-        <img id="introPhoto" src="images/DrewGrand.jpg" width="375" height="515" alt="Drew at the Grand Canyon"/>
+        <img class="rightPhoto" src="images/DrewGrand.jpg" width="375" height="515" alt="Drew at the Grand Canyon"/>
       <h2>Life Experience</h2>
         <p>Drew has a lifetime of fitness. With morning strength and conditioning workouts in highschool for baseball, running summer sport camps for young kids to learn new skills, coaching high school level baseball, partcipating in mud run obstacle courses, and cycling across the united states for charity, Drew has been through a variety of adversity. No matter what you are training for, Drew will guide you to your goals.</p>
-        <img id="introPhoto" src="images/DrewBike.jpg" width="375" height="515" alt="Drew working hard on a bike"/>
+        <img class="leftPhoto" src="images/DrewBike.jpg" width="375" height="515" alt="Drew working hard on a bike"/>
       <h2>Why</h2>
         <p>Drew loves to help others acheive their goals. His ultimate goal is to give his clients the tools nesecarry to thrive on their own and live the lifestyle that will help them be the best version of themselves. Fitness has changed Drew's life and he wants to help others achieve their fitness goals. Through teaching and practice Drew will help you get there.</p>
         <img id="introPhoto" src="images/DrewMtn.jpg" width="375" height="515" alt="Drew on top of a mountain"/>
