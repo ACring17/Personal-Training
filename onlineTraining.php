@@ -56,8 +56,8 @@
                     <p id="answer3">Drew will work with you at whatever level you are at, but he would recommend that you start with in-person training so he can help help teach you safe technique.</p></div>
                 <div id="question4"><h3><span> I change program packages?</span></h3>
                     <p id="answer4">Yes of course, If you feel ready to upgrade packages you can always switch to the package that works best for you.</p></div>
-                <h3></h3>
-                <h3></h3>
+                <div id="question5"><h3><span> Can I switch to in-person training?</span></h3>
+                    <p id="answer5">Yes of course... IF you live in the Phoenix, AZ area! Unfortunatly Drew cannot be everywhere. He is headquarters out of Scottsdale Arizona and can do in-person training for anyone that Drew can get to.</p></div>
         </div>
 
     <footer>
