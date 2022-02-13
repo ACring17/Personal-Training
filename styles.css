@@ -257,6 +257,11 @@ input[type=submit]:hover {
 
 /* Styles for articles page */
 
-.articleThumbnail{}
+.articleThumbnail{
+    width: 321px;
+    height: 232px;
+    margin: 0 60px;
+    border: 4px solid #DAA520;
+}
 
 .articleDescription{}
