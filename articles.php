@@ -41,7 +41,7 @@
             <p>Below you will find research articles that pertain to weightloss.</p>
             <div>
                 <a href="https://www.liebertpub.com/doi/abs/10.1089/met.2010.0031"><img class="articleThumbnail" src="images/Article.MeditDietMeta2011.png" alt="Mediterranean Diet and Weight Loss: Meta-Analysis"/>
-                <p class="articleDescription"></p></a>
+                <p class="articleDescription">A meta analysis on the efects of the Mediterranean diet on weigth loss</p></a>
             </div><!--Article div-->
         </div>
             <hr/>
