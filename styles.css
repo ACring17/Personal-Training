@@ -264,4 +264,6 @@ input[type=submit]:hover {
     border: 4px solid #DAA520;
 }
 
-.articleDescription{}
+.articleDescription{
+    margin: 0 20px;
+}
