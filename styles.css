@@ -254,3 +254,9 @@ input[type=submit]:hover {
     display: table;
     clear: both;
 }
+
+/* Styles for articles page */
+
+.articleThumbnail{}
+
+.articleDescription{}
