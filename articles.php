@@ -40,8 +40,8 @@
             <h2>Weightloss Articles</h2>
             <p>Below you will find research articles that pertain to weightloss.</p>
             <div>
-                <a ><img src="images/Article.MeditDietMeta2011.png" alt="Mediterranean Diet and Weight Loss: Meta-Analysis"/>
-                <p class="description"></p></a>
+                <a href="https://www.liebertpub.com/doi/abs/10.1089/met.2010.0031"><img class="articleThumbnail" src="images/Article.MeditDietMeta2011.png" alt="Mediterranean Diet and Weight Loss: Meta-Analysis"/>
+                <p class="articleDescription"></p></a>
             </div><!--Article div-->
         </div>
             <hr/>
